@@ -48,7 +48,7 @@ const LeftBanner = () => {
                 <FaGithub />
               </span>
             </a>
-            <a href="https://github.com/noorjsdivs/portfolioone" target="blank">
+            <a href="https://www.facebook.com/share/19ye8n535E/" target="blank">
               <span className="bannerIcon">
                 <FaFacebookF />
               </span>
@@ -58,7 +58,7 @@ const LeftBanner = () => {
                 <FaInstagram />
               </span>
             </a>
-            <a href="https://github.com/noorjsdivs/portfolioone" target="blank">
+            <a href="www.linkedin.com/in/qaeda-solutions-b0653b347" target="blank">
               <span className="bannerIcon">
                 <FaLinkedinIn />
               </span>
